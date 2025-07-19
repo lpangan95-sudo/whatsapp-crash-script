@@ -4,7 +4,7 @@ A Python script that automates sending messages to a specific WhatsApp number, d
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️ Screenshothttps://github.com/burhanuday/WhatsApp-Crasher.git
 
 
 ![Screenshot Placeholder](GUI.png)
